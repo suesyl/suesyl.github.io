@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "London, UK"
-  employer         : "Department of Political Science, University College London"
+  employer         : "University College London"
   uri              : # URL
   email            : "yilin.su@ucl.ac.uk" 
 
@@ -59,13 +59,13 @@ author:
 #  lastfm           : # Username
 #  linkedin         : # Username
 #  tumblr           : # Username
-  twitter          : "yilinsusue"
+  twitter          : "@yilinsusue"
 #  vine             : # Username
 #  weibo            : # Username
 #  wikipedia        : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-research_category:
+publication_category:
   manuscripts:
     title: 'Working Papers'    
   conferences:
