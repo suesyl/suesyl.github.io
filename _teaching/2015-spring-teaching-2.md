@@ -1,8 +1,10 @@
 ---
-title: "Teaching Assistant, PUBL0050: Causal Inference"
+title: "Teaching Assistant"
 collection: teaching
 type: "UG"
 venue: "Department of Political Science, University College London"
-date: 2023
 ---
-
+PUBL0050: Causal Inference (2022)
+---
+POLS0002: Democracy and Authoritarianism (2023)
+---
