@@ -53,13 +53,13 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
-    font-family: "Times New Roman", Times, serif; // 标题也使用Times New Roman
+    font-family: $global-font-family;
   }
 
   p, li, dl {
     font-size: 1em;
-    font-family: "Times New Roman", Times, serif; // 正文文字
-    text-align: justify; // 两端对齐
+    font-family: $global-font-family;
+    text-align: justify;
   }
 }
 
