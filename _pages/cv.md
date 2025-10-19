@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 You can find my CV [here](https://www.dropbox.com/scl/fi/soh4te3q7jo46mnqetx3p/Curriculum_Vitae_Yilin_Su.pdf?rlkey=4jsujsrbzm28rp8x2qdiejjvz&dl=0).
