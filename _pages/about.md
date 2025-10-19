@@ -13,4 +13,4 @@ My research focuses on state-led online repression in authoritarian regimes, wit
 
 I earned my MSc in International Public Policy from University College London and my BA in Journalism and Communication Studies from Minzu University of China. Before my doctoral studies, I worked in journalism, marketing and public relations, and industry research. Outside academia, I am an amateur weightlifter and swing dancer.
 
-You can find my CV here.
+You can find my CV [here](https://www.dropbox.com/scl/fi/soh4te3q7jo46mnqetx3p/Curriculum_Vitae_Yilin_Su.pdf?rlkey=4jsujsrbzm28rp8x2qdiejjvz&dl=0).
