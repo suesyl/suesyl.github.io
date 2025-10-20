@@ -443,16 +443,17 @@
   }
 }
 
-
-// Align all nav items to the right
 .nav__list > ul {
-  display: flex;           // horizontal layout
-  justify-content: flex-end; // push all items to the right
+  display: flex !important;          // 强制水平布局
+  justify-content: flex-end !important; // 推到右边
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .nav__list > ul > li {
-  margin-left: 1em;        // space between items
+  display: inline-block !important;  // 确保每个 li 是水平排列
+  float: none !important;            // 取消任何 float
+  margin-left: 1em;                  // 间距
 }
+
