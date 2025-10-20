@@ -2,7 +2,7 @@
 title: "When Do Nondemocracies Legalise Online Information Control?"
 collection: workingpapers
 category: manuscripts 
-date: 2025-10-01
+date: 2025-10-15
 type: 'Working Paper'
 ---
 
