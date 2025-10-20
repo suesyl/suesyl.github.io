@@ -1,10 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Democracy & Authoritarianism (POLS0002)"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 venue: "Department of Political Science, UCL"
 date: 2022-10-01
 ---
-
-Democracy & Authoritarianism (POLS0002) - UG
+Undergraduate course
 
