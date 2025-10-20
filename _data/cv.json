@@ -126,17 +126,17 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "Democracy & Authoritarianism (POLS0002)",
+      "institution": "UCL, Department of Political Science",
+      "date": "2022-10-01",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Causal Inference (POLS0012)",
+      "institution": "UCL, Department of Political Science",
+      "date": "2023-10-01",
+      "role": "Undergraduate course",
       "description": ""
     }
   ],
