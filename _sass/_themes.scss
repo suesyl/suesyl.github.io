@@ -102,3 +102,18 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
+.navbar {
+  display: flex;
+  justify-content: flex-end; // pushes child items to the right
+
+  ul.navbar-right {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin-left: 20px; // spacing between the right items
+    }
+  }
+}
