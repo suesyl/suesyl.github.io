@@ -102,25 +102,27 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
-// Align only the navbar-right items to the right
-.navbar {
-  display: flex;              // enables flex layout
-  justify-content: flex-end;  // pushes the navbar-right <ul> to the right
-  align-items: center;        // vertically centers items
+/* Masthead navbar alignment */
+.masthead__menu {
+  display: flex;
+  align-items: center;
 
-  ul.navbar-right {
+  .masthead-left {
     display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+
+  .masthead-right {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;  // pushes this ul to the right
 
     li {
-      margin-left: 20px;      // space between right items
-    }
-
-    a {
-      text-decoration: none;   // optional, matches default nav style
-      color: inherit;
+      margin-left: 20px;  // spacing between the right items
     }
   }
 }
