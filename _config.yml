@@ -356,3 +356,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# bar items to the right
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      custom_css: "assets/css/custom.css"
