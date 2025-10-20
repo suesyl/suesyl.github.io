@@ -102,28 +102,5 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
-/* Masthead navbar alignment */
-.masthead__menu {
-  display: flex;
-  align-items: center;
 
-  .masthead-left {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .masthead-right {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    margin-left: auto;  // pushes this ul to the right
-
-    li {
-      margin-left: 20px;  // spacing between the right items
-    }
-  }
-}
 
