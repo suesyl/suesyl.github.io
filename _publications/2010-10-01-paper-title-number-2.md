@@ -3,7 +3,7 @@ title: "When Do Nondemocracies Legalize Online Information Control?"
 collection: workingpapers
 category: manuscripts 
 date: 2025-10-15
-type: 'Yilin, S.'
+type: 'Su, Y.'
 venue: Working Paper
 ---
 
