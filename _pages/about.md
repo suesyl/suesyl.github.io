@@ -12,4 +12,4 @@ My research focuses on state-led online repression in authoritarian regimes, wit
 
 I earned my [MSc in International Public Policy](https://www.ucl.ac.uk/social-historical-sciences/political-science/study/postgraduate-taught/international-public-policy-msc) with distinction from University College London. I hold a BA in Journalism and Communication Studies from the [School of Journalism and Communication](https://xinchuan.muc.edu.cn/) at [Minzu University of China](https://www.muc.edu.cn/), and received the Outstanding Undergraduate Thesis Award. Before my doctoral studies, I worked in journalism, industry research, marketing&PR. Outside academia, I am an amateur powerlifter and endurance athlete. 
 
-You can find my C.V. [here](https://www.dropbox.com/scl/fi/soh4te3q7jo46mnqetx3p/Curriculum_Vitae_Yilin_Su.pdf?rlkey=4jsujsrbzm28rp8x2qdiejjvz&dl=0).
+You can find my C.V. [here](https://www.dropbox.com/scl/fi/i60hampmr2xlda9wnq40g/Curriculum_Vitae_Yilin_Su.pdf?rlkey=3h0u1scbomdtb8rdig9l8u38c&dl=0).
